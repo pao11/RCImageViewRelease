@@ -1,6 +1,7 @@
 [![](https://jitpack.io/v/pao11/RCImageViewRelease.svg)](https://jitpack.io/#pao11/RCImageViewRelease)
 
 #概况
+
 ## RCImageView
 圆型或者圆角图片（带有边框效果），适配了ImageView的ScaleType属性
 
@@ -9,7 +10,7 @@
 
 <table>
     <tr>
-        <td><img src="/image.png"></td>
+        <td><img src="/image/image.png"></td>
         <td><img src="/image/image_two.png"></td>
     </tr>
 </table>
