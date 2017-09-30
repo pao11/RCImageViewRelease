@@ -1,6 +1,6 @@
 [![](https://jitpack.io/v/pao11/RCImageViewRelease.svg)](https://jitpack.io/#pao11/RCImageViewRelease)
 
-#概况
+# 概况
 
 ## RCImageView
 圆型或者圆角图片（带有边框效果），适配了ImageView的ScaleType属性
@@ -60,7 +60,9 @@ compile 'com.github.pao11:RCImageViewRelease:v1.0.0'
  ```
  ##更新记录
  
- **v1.0.0**　`2017.09.30`　发布第一版本
+ **v1.1.0**　`2017.10.09`　发布第二个版本
+ 
+ **v1.0.0**　`2017.09.30`　发布第一个版本
  
  ## Copyright Notice ##
  ``` 
