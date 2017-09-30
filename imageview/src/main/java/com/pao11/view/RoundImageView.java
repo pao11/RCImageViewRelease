@@ -74,6 +74,7 @@ public class RoundImageView extends ImageView {
             leftUpCornerRadius = leftDownCornerRadius = rightUpCornerRadius = rightDownCornerRadius = cornerRadius;
         }
 
+        array.recycle();
     }
 
 
