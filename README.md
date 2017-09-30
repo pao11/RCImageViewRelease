@@ -17,7 +17,7 @@
 
 ## Gradle 添加引用
 ```
-compile 'com.github.pao11:RCImageViewRelease:v1.0.0' 
+compile 'com.github.pao11:RCImageViewRelease:v1.1.0' 
 ```
 ## How to use 如何使用
 ```
